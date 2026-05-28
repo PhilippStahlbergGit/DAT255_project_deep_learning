@@ -1,6 +1,6 @@
 # Explainable AI for Brain Tumor MRI Classification and Localization
 
-This repository contains the DAT255 Deep Learning Engineering project by **Erikka Almestad Steen** and **Philipp Stahlberg**.
+This repository was a school project in Deep Learning (DAT255) at Høgskolen på Vestlandet (HVL). 
 
 The project investigates brain tumor analysis in MRI images with a focus on both:
 - **predictive performance** (classification and detection), and
@@ -20,7 +20,7 @@ The workflow covers:
 ## Repository Contents
 
 - `DAT255_project.ipynb` – main notebook containing all experiments, preprocessing, training, evaluation, Grad-CAM, and YOLO detection.
-- `DAT255_report_template-7.pdf` – full project report.
+- `XAI_tumor_classification.pdf` – full project report.
 - `README.md` – this file.
 
 ## Datasets
@@ -115,4 +115,4 @@ Main limitations discussed in the report:
 
 ## Citation
 
-If you use this repository, please cite the project report in `DAT255_report_template-7.pdf`.
+If you use this repository, please cite the project report in `XAI_tumor_classification.pdf`.
